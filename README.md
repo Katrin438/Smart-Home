@@ -1,4 +1,3 @@
-# SmartMobileDuo-StelianAndCatherine
 
 # Home Helper
 
