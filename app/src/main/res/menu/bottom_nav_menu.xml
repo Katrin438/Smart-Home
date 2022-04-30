@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/miHome"
+        android:title=""
+        android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/miElectricity"
+        android:title=""
+        android:icon="@drawable/ic_electrical"/>
+</menu>
